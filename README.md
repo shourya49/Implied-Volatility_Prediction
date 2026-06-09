@@ -8,3 +8,6 @@ My final submission score  ranked **139th** postion on the leaderboard out of to
 
 ![Leaderboard](https://github.com/user-attachments/assets/97aaba9e-f719-4b28-a118-8e8749451f7f)
 ![Hackathon](https://github.com/user-attachments/assets/784e6007-3edf-401a-b770-1d96c5d44417)
+
+## Link of the Kaggle Competition <br>
+https://www.kaggle.com/competitions/nk-iv-prediction
